@@ -1,0 +1,16 @@
+﻿{
+    "pack": {
+        "author": "Deflecta",
+        "description": {
+            "fallback": "§7Plays Bromeliad in the menus!",
+            "translate": "minecraft.resource_pack.bromeliad"
+        },
+        "name": "Just Bromeliad",
+        "pack_format": 15,
+        "supported_formats": [
+            15,
+            33
+        ],
+        "version": "1.20-1.0"
+    }
+}
