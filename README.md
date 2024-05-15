@@ -1,8 +1,14 @@
 # Just Bromeliad
 <div align="center">
-<img height="150" src="Misc/pack.png">
+    <img height="150" src="Misc/pack.png">
+    <br>
+    <br>
+    <a href="https://modrinth.com/mod/dynamicpack"><img title="Good mod, good dev ❤️" height="55" src="Misc/dynamicpack_cozy_en_vector.svg"></a>
+    <a href="https://modrinth.com/mod/better-resource-pack-sorting"><img title="Very user-friendly mod" height="55" src="Misc/brps_cozy_en_vector.svg"></a>
+    <br>
+    <br>
 </div>
-<br/>
+
 A music pack that replaces all the menu music with the track "Aaron Cherof - Bromeliad" from the Trails & Tales update, even on versions 1.19.x, 1.18.x, 1.17.x, and 1.16.x.
 
 ## 🚀 Download
