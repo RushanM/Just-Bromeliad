@@ -1,6 +1,6 @@
 # Just Bromeliad
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TaXlw0OmSOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <img height="150" src="Misc/pack.png">
     <br>
     <br>
     <a href="https://modrinth.com/mod/dynamicpack"><img title="Good mod, good dev ❤️" height="55" src="Misc/dynamicpack_cozy_en_vector.svg"></a>
