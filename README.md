@@ -1,6 +1,6 @@
 # Just Bromeliad
 <div align="center">
-    <img height="150" src="Misc/pack.png">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TaXlw0OmSOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <br>
     <br>
     <a href="https://modrinth.com/mod/dynamicpack"><img title="Good mod, good dev ❤️" height="55" src="Misc/dynamicpack_cozy_en_vector.svg"></a>
@@ -9,7 +9,9 @@
     <br>
 </div>
 
-A music pack that replaces all the menu music with the track "Aaron Cherof - Bromeliad" from the Trails & Tales update, even on versions 1.19.x, 1.18.x, 1.17.x, and 1.16.x.
+A music pack that replaces all the menu music with the track "Aaron Cherof - Bromeliad" from the Trails & Tales update, even on versions 1.19.x, 1.18.x, 1.17.x, and 1.16.x. 
+
+Why? I adore this track. It's my favorite among all the menu music in Minecraft. I never thought I would ever be hooked by Minecraft's menu music, but Bromeliad proved me wrong. That’s why I made this resource pack.
 
 ## 🚀 Download
 You can download the resource pack [here from the GitHub releases page](https://github.com/RushanM/Just-Bromeliad/releases) or from Modrinth:
@@ -22,12 +24,3 @@ You can download the resource pack [here from the GitHub releases page](https://
 ## 📛 Credits
 * [**Deflecta**](https://github.com/RushanM): Resource pack
 * [**Aaron Cherof**](cherof.com): Bromeliad
-
-## 💝 Support
-If you like my work enough to send me some money, you can do so at the following links:
-* [Boosty](https://boosty.to/rushanm)
-* [VK Pay](https://vk.me/moneysend/deflecta)
-* [Donation Alerts](https://www.donationalerts.com/r/deflecta)
-* [YooMoney](https://yoomoney.ru/to/410015215253910)
-
-I will appreciate every contribution!
