@@ -23,4 +23,4 @@ You can download the resource pack [here from the GitHub releases page](https://
 
 ## 📛 Credits
 * [**Deflecta**](https://github.com/RushanM): Resource pack
-* [**Aaron Cherof**](cherof.com): Bromeliad
+* [**Aaron Cherof**](https://cherof.com): Bromeliad
